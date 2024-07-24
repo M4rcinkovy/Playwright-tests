@@ -126,7 +126,7 @@ test('assertion', async({page}) => {
 })
 
 test('auto-waiting', async({page}) => {
-
+    //tu bedzie nowy kod
 })
 
 /* test('the first test', async({page}) => {
